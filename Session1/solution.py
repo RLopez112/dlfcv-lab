@@ -1,2 +1,5 @@
 def adding_two_numbers(a, b):
-    raise NotImplementedError  # TODO: implement
+    return a+b
+    
+def printsomething():
+    print("sfsa")
